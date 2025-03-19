@@ -36,6 +36,15 @@ Welcome to my GitHub! I’m a JavaScript wizard crafting **airdrop automation sc
 
 ---
 
-*“One script, endless airdrops.”* – DropXpert
+### 💸 Support the DropXpert Hustle
+Love the scripts? Fuel my automation mission with a donation! I’ll swap these placeholder addresses soon—stay tuned on `@dropxpert5`.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DropXpert.DropXpert)
+| Crypto         | Address                                      |
+|----------------|----------------------------------------------|
+| **ETH**        | `0x72fB0737347D533fD1b7164F3E5d5F2501ee65d5` |
+| **SOL**        | `EKyU7WbHc7SGWCMCPKoJUdd1QeNTB3LAPKvmxnJZb3ht` |
+| **TON**        | `UQBxg9YQGyvO9Quy1NFrI1lyG1Eh0G82TJigT4oOhwQw0VGK` |
+| **USDT (BEP-20)** | `0x72fB0737347D533fD1b7164F3E5d5F2501ee65d5` |
+
+*Send some love and keep the automation rolling!*
+
