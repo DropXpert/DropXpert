@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/12fde475-38bc-463e-8bed-eeed9caf98f5)
+![(https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 # here! I'm DropXpert 👋
 
 Welcome to my GitHub! I’m a JavaScript wizard crafting **airdrop automation scripts** to make crypto hunting a breeze. Check out my **DropXpert Telegram Channel** ([@dropxpert5](https://t.me/dropxpert5)) for updates, tips, and more!
