@@ -37,7 +37,7 @@ Welcome to my GitHub! I’m a JavaScript wizard crafting **airdrop automation sc
 ---
 
 ### 💸 Support the DropXpert Hustle
-Love the scripts? Fuel my automation mission with a donation! I’ll swap these placeholder addresses soon—stay tuned on `@dropxpert5`.
+Love the scripts? Fuel my automation mission with a donation!
 
 | Crypto         | Address                                      |
 |----------------|----------------------------------------------|
